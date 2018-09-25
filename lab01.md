@@ -14,5 +14,5 @@ Built on a solid multidisciplinary foundation of humanities, social sciences, na
 ! [17](http://photo.blog.sina.com.cn/showpic.html#blogid=6de70d7f0101gwyp&url=http://album.sina.com.cn/pic/0020MDUjty6F0ZUnEesc8.jpg)
 ## University Motto
 Now this university with a long history has become a wonderful campus,attracted more and more people to join in.It's motto is "Study Extensively, Enquire Accurately, Reflect Carefully, Discriminate Clearly, Practice Earnestly"
-! [18](http://699pic.com/tupian-500864320.jpg)
+! [18](http://seopic.699pic.com/photo/50069/1812.jpg_wh1200.jpg)
 
