@@ -3,6 +3,7 @@
 在这个游戏中，玩家可以通过鼠标和键盘操控Player的方向和移动，并通过点击鼠标左键对怪物发起攻击，最终消灭怪物。
 ## 教程：
 1、完成这个游戏的制作其实很简单，只要根据以下链接中的教程操作即可。
+大概的流程是：安装construct 2、创建新文件的背景、添加角色(玩家和怪物)、为角色添加行为、添加活动(这是让游戏进行的关键)、添加变量、添加分数显示器。
 
 https://www.scirra.com/tutorials/37/beginners-guide-to-construct-2/page-1
 
@@ -27,5 +28,5 @@ https://www.scirra.com/tutorials/37/beginners-guide-to-construct-2/page-1
 
 另外，用画笔自己绘制炫酷的激光也是一个不错的选择
 ![image](http://r.photo.store.qq.com/psb?/V13KTFw64Y3DPr/NF3L3bzz55DuZalYlFaOoHTPkC22hn4gkPLPtOiOVBs!/r/dFIBAAAAAAAA)
-
+(图片来源于某位不愿透露姓名的大佬)
 
