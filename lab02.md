@@ -8,10 +8,11 @@ https://www.scirra.com/tutorials/37/beginners-guide-to-construct-2/page-1
 
 2、作为construct 2 的初次使用者，可能会在此过程中遇到一些困惑，以下提供了一些可能出现的问题及解决方法。
 (注：以下解决方法建立在上面教程的基础上)
-#### (1)我想让自己选的背景图充满整个游戏界面，而不是重复出现(image1),怎么办？
-![image](http://a4.qpic.cn/psb?/V13KTFw64Y3DPr/EGiKb3BQc2s77wxapAzpTQj5CSjy8KVrsOT.IVz2fb8!/m/dDMBAAAAAAAAnull&bo=1wLQAtcC0AIDCSw!&rf=photolist&t=5)(image1)
+#### (1)我想让自己选的背景图充满整个游戏界面，而不是重复出现,怎么办？
+![image](http://a4.qpic.cn/psb?/V13KTFw64Y3DPr/EGiKb3BQc2s77wxapAzpTQj5CSjy8KVrsOT.IVz2fb8!/m/dDMBAAAAAAAAnull&bo=1wLQAtcC0AIDCSw!&rf=photolist&t=5)
 
 在layer层中选中background，单击外面的区域，会在属性栏看到Layout Size(image2)，记住它的值，在下一次插入背景图片前将图片的规格改成与它的值一样就行(我直接放在PPT中修改，然后粘贴到constrct 2中)。
+
 ![image](http://a3.qpic.cn/psb?/V13KTFw64Y3DPr/6o4m9ark.cMtphxzg7agPJkMJCzjGRP3aMXfN5I8APk!/m/dFYAAAAAAAAAnull&bo=cwNlAnMDZQIDCSw!&rf=photolist&t=5)
 
 #### (2)运行游戏后老是移动太麻烦了，我想让自己的视野占据整个界面较大的比例？
