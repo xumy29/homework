@@ -1,4 +1,5 @@
 # 我的第一个游戏--射击打怪游戏
+![iamge](http://m.qpic.cn/psb?/V13KTFw64Y3DPr/O9D1iZsW1Ret7Fvo1XGorz9lDO*Atc9W1Hkd5nhU6yA!/b/dDIBAAAAAAAA&bo=SwGZAEsBmQACeV0!&rf=viewer_4)
 ## 简介：
 在这个游戏中，玩家可以通过鼠标和键盘操控Player的方向和移动，并通过点击鼠标左键对怪物发起攻击，最终消灭怪物。
 ## 教程：
