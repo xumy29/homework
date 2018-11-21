@@ -2,8 +2,14 @@
     - [一、python实现化简](#%E4%B8%80python%E5%AE%9E%E7%8E%B0%E5%8C%96%E7%AE%80)
     - [二、python求极限](#%E4%BA%8Cpython%E6%B1%82%E6%9E%81%E9%99%90)
     - [三、python进行矩阵运算](#%E4%B8%89python%E8%BF%9B%E8%A1%8C%E7%9F%A9%E9%98%B5%E8%BF%90%E7%AE%97)
+
+
 # 实验报告——使用python求解数学问题
+
+
+
 ## 一、python实现化简
+
 * 幂运算:    x**2 表示x的平方
 
 ```P
