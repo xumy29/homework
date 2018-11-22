@@ -1,6 +1,6 @@
 # <center>淘宝网上的一些伦理风险行为</center>
 
-## <font color=grey size = 5>职业差评师</font>
+ <font color=grey size = 5>职业差评师</font>
 
 * 摘自[网购诚信引发的伦理思考](https://wenku.baidu.com/view/79e67cbf1a37f111f1855b95.html)
 > 作为四钻食品网店的卖家小曹，平时生意很少红火。前不久，有个买家连续拍下了12样“宝贝”。过来几天，曹先生陆续发现他的网店被评了几个“中评”和“差评”，这个买家的解释是“食品不干净，吃了会拉肚子”。曹先生立刻表示可以提供食品合格证。这时，对方慢慢透露了他的目的。买家说：“差评改好评没有问题，只要你先付钱，50块钱改一个评价……”
@@ -8,7 +8,7 @@
 随着网络交易量的日渐放大，淘宝上不只有“刷单”，更衍生出“职业差评师”这样一种灰色的职业。这些人往往一次性拍下多个商品，给差评后再向卖家索要改评价的费用。有网友在帖子中透露，积少成多，这些“职业差评师”可能月入过万。
 ![iamge](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1542901424459&di=46712799dd73d35fc30aff35d67e1e31&imgtype=0&src=http%3A%2F%2Fimage.thepaper.cn%2Fwww%2Fimage%2F9%2F780%2F700.jpg)
 
-## <font color=grey size = 5>好评返现</font>
+ <font color=grey size = 5>好评返现</font>
 
 * 摘自["好评返现"成网购公开秘密](http://news.163.com/13/1118/10/9DV3KVD300014Q4P_mobile.html)
 
@@ -18,7 +18,7 @@
 
 ![image](https://timgsa.baidu.com/timg?image&quality=80&size=b10000_10000&sec=1542891430&di=b27a57110dd8f3b6425ff55b388900eb&src=http://pic.qiantucdn.com/58pic/18/47/89/56274bc2727b9_1024.jpg)
 
-## <font color=grey size = 5>货源复制</font>
+ <font color=grey size = 5>货源复制</font>
 
 * 摘自[如今的淘宝为什么越来越难做？](http://lusongsong.com/reed/8472.html)
 
